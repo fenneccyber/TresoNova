@@ -52,13 +52,6 @@ TresoNova is a production-ready desktop application designed to automate the com
 - **AI Integration:** OpenAI API  
 - **File Support:** CSV, XLSX, XML  
 
-## 📎 App Identifier
-
-com.tresonova.dz
-
-
-## 🚀 Project Status
-
 ## 🤝 Author
 
 Developed by **Jabli Mehdi Bahri**  
