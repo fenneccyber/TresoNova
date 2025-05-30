@@ -46,11 +46,11 @@ TresoNova is a production-ready desktop application designed to automate the com
 
 ## 💻 Tech Stack
 
-- **Frontend:** React + Vite  
+- **Frontend:** React + Vite
 - **Backend:** Node.js Backend Server
-- **Desktop Framework:** Tauri  
-- **AI Integration:** OpenAI API  
-- **File Support:** CSV, XLSX, XML  
+- **Desktop Framework:** Tauri
+- **AI Integration:** OpenAI API
+- **File Support:** CSV, XLSX, XML
 
 ## 🤝 Author
 
